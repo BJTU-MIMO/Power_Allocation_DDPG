@@ -2,8 +2,7 @@
 
 This is a code package is related to the following scientific article:
 
-Lirui Luo, Jiayi Zhang, Shuaifei Chen, Bo Ai, and Derrick Wing Kwan Ng "[Downlink Power Control for Cell-Free Massive MIMO with Deep Reinforcement Learning
-]" *IEEE Transactions on Vehicular Technology*.
+Lirui Luo, Jiayi Zhang, Shuaifei Chen, Bo Ai, and Derrick Wing Kwan Ng "Downlink Power Control for Cell-Free Massive MIMO with Deep Reinforcement Learning" *IEEE Transactions on Vehicular Technology*.
 
 The package contains a simulation environment, based on Matlab, that reproduces some of the numerical results and figures in the article. *We encourage you to also perform reproducible research!*
 
